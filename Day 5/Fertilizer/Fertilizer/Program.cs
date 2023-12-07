@@ -1,6 +1,5 @@
 ﻿namespace Fertilizer;
 
-using Fertilizer.Extensions;
 using Fertilizer.InputProcessors;
 using Fertilizer.Logic;
 using System;
